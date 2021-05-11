@@ -98,8 +98,6 @@ text(346, 7.3, "X1=37", adj=0, cex=0.7)
 detach(cakes)
 
 
-
-
 #sleep1
 data(sleep1)
 attach(sleep1)
